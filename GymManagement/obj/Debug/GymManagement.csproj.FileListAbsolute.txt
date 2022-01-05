@@ -1,0 +1,15 @@
+C:\Users\m.Ahmed\source\repos\GymManagement\GymManagement\bin\Debug\GymManagement.exe.config
+C:\Users\m.Ahmed\source\repos\GymManagement\GymManagement\bin\Debug\GymManagement.exe
+C:\Users\m.Ahmed\source\repos\GymManagement\GymManagement\bin\Debug\GymManagement.pdb
+C:\Users\m.Ahmed\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.csproj.AssemblyReference.cache
+C:\Users\m.Ahmed\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.main.resources
+C:\Users\m.Ahmed\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.login.resources
+C:\Users\m.Ahmed\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.Properties.Resources.resources
+C:\Users\m.Ahmed\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.csproj.GenerateResource.cache
+C:\Users\m.Ahmed\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.csproj.CoreCompileInputs.cache
+C:\Users\m.Ahmed\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.exe
+C:\Users\m.Ahmed\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.pdb
+C:\Users\m.Ahmed\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.AddMember.resources
+C:\Users\m.Ahmed\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.Payment.resources
+C:\Users\m.Ahmed\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.UpdateDelete.resources
+C:\Users\m.Ahmed\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.ViewItems.resources
